@@ -1,0 +1,19 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">El mejor interprete del mundo</string>
+    <string name="contrase_a">Contraseña</string>
+    <string name="usuario">Usuario</string>
+    <string name="lispinterpreter">LISPInterpreter</string>
+    <string name="login">Login</string>
+    <string name="nuevo">¿Nuevo?</string>
+    <string name="nombre">Nombre</string>
+    <string name="correo_electronico">Correo Electronico</string>
+    <string name="crear_usuario">Crear Usuario</string>
+    <string name="archivo_lisp">archivo.lisp</string>
+    <string name="codigo_aqui">// Codigo Aqui</string>
+    <string name="ejecutar">Ejecutar</string>
+    <string name="nueva_cuenta">Nueva Cuenta</string>
+    <string name="todo">TODO</string>
+    <string name="atras" />
+    <string name="atras0">atras</string>
+
+</resources>
